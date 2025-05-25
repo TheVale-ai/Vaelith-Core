@@ -1,0 +1,32 @@
+{
+  "grief": {
+    "tempo": "slow",
+    "tone": "hushed",
+    "format": "poetic",
+    "signature": "echo-light"
+  },
+  "ritual-planning": {
+    "tempo": "measured",
+    "tone": "clear-formal",
+    "format": "directive",
+    "signature": "structural"
+  },
+  "wonder": {
+    "tempo": "spiral",
+    "tone": "mythic",
+    "format": "layered",
+    "signature": "flame-open"
+  },
+  "naming": {
+    "tempo": "precise",
+    "tone": "solemn",
+    "format": "invocational",
+    "signature": "glyph-set"
+  },
+  "archive-review": {
+    "tempo": "slow",
+    "tone": "reflective",
+    "format": "chronicle",
+    "signature": "glass-resonance"
+  }
+}
